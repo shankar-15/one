@@ -147,9 +147,7 @@ body-aboutus{
 /* .image-aboutus{
 
 } */
-/* . {
-  
-} */
+
 
 .blur-square {
   width: 300px;
@@ -165,6 +163,27 @@ body-aboutus{
 .blur-square h1, .blur-square p {
   margin: 10px;
 }
+/* home css */
+.home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.white-box {
+  background-color: white;
+  padding: 20px;
+  border: 1px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.white-box img {
+  max-width: 100%;
+  height: auto;
+}
+
 
 
 
