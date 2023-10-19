@@ -12,6 +12,7 @@ function Home() {
         <img src="src/images/help.jpeg" alt='cute'/>
       </div>
       </div>
+      // hadbu
   );
 }
 

@@ -12,6 +12,7 @@ function Products({ product }) {
       <p>auto detection of fire within few seconds</p>
       <p>Price: ${200}</p>
     </div>
+    // hfgyek
     
   );
 }
