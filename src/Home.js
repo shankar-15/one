@@ -9,7 +9,7 @@ function Home() {
       <div className='white-box'>
         <h1>Blurred Square</h1>
         <p>This is some text on a blurred square.</p>
-        <img src="/iamges/help.jpeg" alt='cute'/>
+        <img src="src/images/help.jpeg" alt='cute'/>
       </div>
       </div>
   );

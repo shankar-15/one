@@ -66,7 +66,6 @@ body{
 }
 
 .services {
-  
   background-repeat: no-repeat;
   background-position: center;
   display: flex;
@@ -80,13 +79,12 @@ body{
 margin: 200px;
 }
 .glass{
-  background: linear-gradient(115deg, rgba(255,255,255,0.1),rgba(255,255,255,0)
-  );
-  backdrop-filter: blur(10px);
+  background: rgba(248, 97, 81, 0.418);
   -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
   border-radius: 20px;
   border: 1px solid rgba(255,255,255,0.18);
-  box-shadow:0 8px 32px 0 rgba(255,255,255, 0.37) ;
+  box-shadow:0 8px 32px 0 rgba(255,255,255, 0.37);
 }
 
 /* Define a CSS class for the logo */
@@ -148,21 +146,6 @@ body-aboutus{
 
 } */
 
-
-.blur-square {
-  width: 300px;
-  height: 300px;
-  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
-  filter: blur(10px); /* Add a blur effect to the square */
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.blur-square h1, .blur-square p {
-  margin: 10px;
-}
 /* home css */
 .home {
   display: flex;
